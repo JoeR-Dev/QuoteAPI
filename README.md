@@ -1,16 +1,16 @@
-#Introduction
+# Introduction
 
-This project was completed as part of the Codecademy Full Stack Developer course. The project was created to practice writing server-side scripts using Node.js and Express routers. The application consists of a simple website that uses a mock back-end to display information to the user.
+This project was created as part of the Codecademy Full Stack Developer course. The aim of the project was to practice writing server-side scripts using Node.js and Express routers. The application consists of a simple website that uses a mock back-end to display information to the user.
 
-#Technologies
+# Technologies
 
-Node.js v16.14.2
-Express v4.17.1
-Javascript
-HTML5
-CSS3
+* Node.js v16.14.2
+* Express v4.17.1
+* Javascript
+* HTML5
+* CSS3
 
-#Setup
+# Setup
 To run this app you will need to do the following:
 1. Download Node.js from the [nodejs.org](https://nodejs.org "Download Node.js") website.
 2. Once the download has finished run the installer.
